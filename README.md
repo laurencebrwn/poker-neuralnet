@@ -9,7 +9,7 @@ play Texas Hold ‘em and beat a player. The AI uses a stochastic gradient
 descent neural network to predict the best move based on a dataset of the 
 possibilty of winning with the AI's hand cards. This project was created 
 for the Non-Examined Assement section of my Computer Science A-Level. More 
-details and the write up for this project can be found in the [NEA document](https://github.com/snowsnooks/poker-neuralnet/blob/master/Report.pdf).
+details and the write up for this project can be found in the [Report document](https://github.com/snowsnooks/poker-neuralnet/blob/master/Report.pdf).
   
 
 Instructions:
