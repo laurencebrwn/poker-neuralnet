@@ -16,12 +16,13 @@ Instructions:
 -----------------
 
 This project consists of 6 files:
-1. poker.py
+1. [poker.py](https://github.com/snowsnooks/poker-neuralnet/blob/master/poker.py)
 
    This python file contains the game itself as well as the Texas Hold'em 
-   Neural Network. Run this file to play poker against the AI.
+   Neural Network. Run this file to play poker against the AI ([Numpy](https://numpy.org/) is 
+   required for this program to function).
 
-2. datatrain.py
+2. [datatrain.py](https://github.com/snowsnooks/poker-neuralnet/blob/master/datatrain.py)
 
    This python file is used to generate the dataset the neural network uses
    to predict what move to make. It creates the dataset by running through
